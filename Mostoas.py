@@ -13,8 +13,6 @@ print('''\033[1;31;40m
 ██║░░██║██████╔╝██╔╝╚██╗░░░██║░░░
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝░░░╚═╝░░░
 
-print("Tools by R3XY")
-print("#-- SAMP DDOS --#")
 ip = str(input(" IP:"))
 port = int(input(" Port:"))
 choice = str(input(" UDP(y/n):"))

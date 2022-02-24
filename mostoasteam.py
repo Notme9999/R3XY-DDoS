@@ -3,7 +3,6 @@ import random
 import socket
 import threading
 
-os.system("clear")
 print("Tools by R3XY")
 print("#-- SAMP DDOS --#")
 ip = str(input(" IP:"))
